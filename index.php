@@ -16,7 +16,8 @@
 <body>
 
     <div class="sidebar d-flex flex-column p-3 bg-dark text-white" style=" width: 45vh; height: 100vh; ">
-            <a href="" class=" h1 mb-0 fs-4 text-decoration-none text-white">Storage Yasz</a>
+    
+            <a href="" class=" h1 mb-0 fs-4 text-decoration-none text-white"><img src="prof.png" alt="">  Storage Yasz</a>
         <hr>
         <ul class=" nav nav-pills flex-column mb-auto">
             <li class=" nav-item">
