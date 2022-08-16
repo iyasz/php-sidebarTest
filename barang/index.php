@@ -18,20 +18,20 @@
 
     <div class="sidebar d-flex flex-column p-3 bg-dark text-white" style=" width: 45vh; height: 100vh; ">
     
-            <a href="" class=" h1 mb-0 fs-4 text-decoration-none text-white"><img class="mb-0" src="prof.png" width="39vh" height="36vh"> Storage Yasz</a>
+            <a href="../" class=" h1 mb-0 fs-4 text-decoration-none text-white"><img class="mb-0" src="../prof.png" width="39vh" height="36vh"> Storage Yasz</a>
         <hr>
         <ul class=" nav nav-pills flex-column mb-auto">
             <li class=" nav-item">
-                <a href="" class=" nav-link active "><i class="bi bi-house-door"></i> Dashboard</a>
+                <a href="../" class=" nav-link active "><i class="bi bi-house-door"></i> Dashboard</a>
             </li>
             <li class=" nav-item">
                 <a href="" class=" nav-link text-white mt-2"><i class="bi bi-box-seam"></i> Barang</a>
             </li>
             <li class=" nav-item">
-                <a href="" class=" nav-link text-white mt-2"><i class="bi bi-card-checklist"></i> Supplier</a>
+                <a href="../supplier/" class=" nav-link text-white mt-2"><i class="bi bi-card-checklist"></i> Supplier</a>
             </li>
             <li class=" nav-item">
-                <a href="" class=" nav-link text-white mt-2"><i class="bi bi-cart"></i> Transaksi</a>
+                <a href="../transaksi/" class=" nav-link text-white mt-2"><i class="bi bi-cart"></i> Transaksi</a>
             </li>
         </ul>
     </div>
