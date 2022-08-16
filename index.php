@@ -8,11 +8,11 @@
     <title>Tampilan</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
 </head>
-
 <body>
 
-    <div class="sidebar d-flex flex-column p-3 bg-dark text-white" style=" width: 280px; height: 100vh; ">
-        <a href="" class=" fs-4 text-decoration-none text-white">Restaurant</a>
+    <div class="sidebar d-flex flex-column p-3 bg-dark text-white" style=" width: 45vh; height: 100vh; ">
+        <h1>tes</h1>
+        <a href="" class=" fs-4 text-decoration-none text-white">Storage Yasz</a>
         <hr>
         <ul class=" nav nav-pills flex-column mb-auto">
             <li class=" nav-item">
@@ -29,9 +29,6 @@
             </li>
         </ul>
     </div>
-
-
-
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
