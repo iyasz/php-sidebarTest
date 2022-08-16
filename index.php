@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,8 +8,10 @@
     <title>Tampilan</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
 </head>
+
 <body>
-<div class="sidebar d-flex flex-column p-3 bg-dark text-white h-100" style=" width: 280px;">
+
+    <div class="sidebar d-flex flex-column p-3 bg-dark text-white" style=" width: 280px; height: 100vh; ">
         <a href="" class=" fs-4 text-decoration-none text-white">Restaurant</a>
         <hr>
         <ul class=" nav nav-pills flex-column mb-auto">
@@ -28,19 +31,10 @@
     </div>
 
 
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="card">
-                    <div class="card-header">
-                        <h1>yasz</h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 </html>
