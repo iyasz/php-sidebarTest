@@ -22,13 +22,13 @@
         <hr>
         <ul class=" nav nav-pills flex-column mb-auto">
             <li class=" nav-item">
-                <a href="../" class=" nav-link active "><i class="bi bi-house-door"></i> Dashboard</a>
+                <a href="../" class=" nav-link text-white "><i class="bi bi-house-door"></i> Dashboard</a>
             </li>
             <li class=" nav-item">
-                <a href="../barang/" class=" nav-link text-white mt-2"><i class="bi bi-box-seam"></i> Barang</a>
+                <a href="../barang/" class=" nav-link text-white mt-2"><i class="bi bi-box-seam "></i> Barang</a>
             </li>
             <li class=" nav-item">
-                <a href="" class=" nav-link text-white mt-2"><i class="bi bi-card-checklist"></i> Supplier</a>
+                <a href="" class=" nav-link text-white mt-2 active"><i class="bi bi-card-checklist "></i> Supplier</a>
             </li>
             <li class=" nav-item">
                 <a href="../transaksi/" class=" nav-link text-white mt-2"><i class="bi bi-cart"></i> Transaksi</a>
