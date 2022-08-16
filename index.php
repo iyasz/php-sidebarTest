@@ -1,3 +1,8 @@
+<?php 
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -11,21 +16,20 @@
 <body>
 
     <div class="sidebar d-flex flex-column p-3 bg-dark text-white" style=" width: 45vh; height: 100vh; ">
-        <h1>tes</h1>
-        <a href="" class=" fs-4 text-decoration-none text-white">Storage Yasz</a>
+            <a href="" class=" h1 mb-0 fs-4 text-decoration-none text-white">Storage Yasz</a>
         <hr>
         <ul class=" nav nav-pills flex-column mb-auto">
             <li class=" nav-item">
-                <a href="" class=" nav-link active">Dashboard</a>
+                <a href="" class=" nav-link active ">Dashboard</a>
             </li>
             <li class=" nav-item">
-                <a href="" class=" nav-link text-white">Order</a>
+                <a href="" class=" nav-link text-white mt-2">Barang</a>
             </li>
             <li class=" nav-item">
-                <a href="" class=" nav-link text-white">Manage Admin</a>
+                <a href="" class=" nav-link text-white mt-2">Manage Admin</a>
             </li>
             <li class=" nav-item">
-                <a href="" class=" nav-link text-white">Manage Menu</a>
+                <a href="" class=" nav-link text-white mt-2">Manage Menu</a>
             </li>
         </ul>
     </div>
